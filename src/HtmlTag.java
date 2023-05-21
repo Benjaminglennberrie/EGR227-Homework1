@@ -9,9 +9,6 @@ import java.util.Set;
 /** An HtmlTag object represents an HTML tag, such as <b> or </table>. */
 
 
-/** JUST SEEING IF MY GITHUB IS WORKING **/
-/** It didn't work, does it work now? **/
-
 public class HtmlTag {
     // fields
     private final String element;

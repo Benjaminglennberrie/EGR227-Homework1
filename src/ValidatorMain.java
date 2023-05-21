@@ -25,6 +25,8 @@ public class ValidatorMain {
         Scanner console = new Scanner(System.in);
         String choice = "s";
 
+
+
         while (true) {
             if (choice.startsWith("s")) {
                 // prompt for page, then download it if it's a URL
